@@ -1,0 +1,18 @@
+C:\Users\199na\Desktop\Life\Life\bin\Debug\Life.exe.config
+C:\Users\199na\Desktop\Life\Life\bin\Debug\Life.exe
+C:\Users\199na\Desktop\Life\Life\bin\Debug\Life.pdb
+C:\Users\199na\Desktop\Life\Life\obj\Debug\Life.Properties.Resources.resources
+C:\Users\199na\Desktop\Life\Life\obj\Debug\Life.csproj.GenerateResource.Cache
+C:\Users\199na\Desktop\Life\Life\obj\Debug\Life.exe
+C:\Users\199na\Desktop\Life\Life\obj\Debug\Life.pdb
+C:\Users\199na\Desktop\Life\Life\obj\Debug\Life.ps.resources
+C:\Users\199na\Desktop\Life\Life\obj\Debug\Life.csprojResolveAssemblyReference.cache
+C:\Users\199na\Desktop\Life — копия\Life\bin\Debug\Life.exe.config
+C:\Users\199na\Desktop\Life — копия\Life\obj\Debug\Life.exe
+C:\Users\199na\Desktop\Life — копия\Life\obj\Debug\Life.pdb
+C:\Users\199na\Desktop\Life — копия\Life\bin\Debug\Life.exe
+C:\Users\199na\Desktop\Life — копия\Life\bin\Debug\Life.pdb
+C:\Users\199na\Desktop\Life — копия\Life\obj\Debug\Life.csprojResolveAssemblyReference.cache
+C:\Users\199na\Desktop\Life — копия\Life\obj\Debug\Life.ps.resources
+C:\Users\199na\Desktop\Life — копия\Life\obj\Debug\Life.Properties.Resources.resources
+C:\Users\199na\Desktop\Life — копия\Life\obj\Debug\Life.csproj.GenerateResource.Cache
